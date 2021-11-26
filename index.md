@@ -1,53 +1,41 @@
-<!DOCTYPE html>
-<html lang="pl">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title>
-    
-</head>
-
-<body>
-  <h1>CV</h1>
-</body>
-
-</html>
-<!-- ## Welcome to CV Pages
-
-You can use the [editor on GitHub](https://github.com/jankrk/jankark.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jankrk/jankark.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
- -->
+# Welcome to CV Pages
+## Wykształcenie
+### Średnie Zawodowe
+- Technikum Łączności nr. 14 im. Obrońców Poczty Polskiej w Gdańsku w Krakowie 
+    - Kierunek Technik Informatyk
+    - 2017-2021
+### Niepełne Wyższe (student)
+- Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie 
+    - Kierunek Informatyka i Systemy Inteligętne 
+    - 2021-(obecnie)
+## Doświadczenie
+### Praktyki zawodowe 
+- MPK KRAKÓW ul. Jana Brożka 3, 30-347 Kraków
+    • 03.2019
+- APTIV Podgórki Tynieckie 2, 30-399 Kraków
+    • 11.2019
+### Prace wakacyjne
+- COMARCH ul. prof. Michała Życzkowskiego 27, Budynek SSE 6, 31-864 Kraków
+    • 07.2021-10.2021
+## Umiejętności
+-Znajomość 
+    • HTML, CSS
+    • JavaScript
+    • Python
+    • React.js
+    • React Native
+    • Angular
+    • PHP
+    • SQL
+- Podstawowa konfiguracja 
+    • Windows Server
+    • Linux Server
+- Obsługa MS Office (Word, Excel, 
+Access)
+- Komunikatywność
+- Praca zespołowa
+- Myślenie analityczne
+## Zainteresowania 
+W wolnym czasie uczę się programowania w wyżej wymienionych językach. Najczęściejprzez tworzenie gier np. saper, snake, kulki, sudoku i aplikacji np. kalkulator, kamera. 
+Dodatkowo lubię wykonywać czynności manualne: lutowanie, naprawa domowego sprzętu elektronicznego, tworzenie sieci LAN. 
+Poza czynnościami technicznymi staram się wolny czas spędzać aktywnie: wycieczki górskie, basen, jazda na rolkach lub rowerze.
