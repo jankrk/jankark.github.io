@@ -20,6 +20,7 @@
     - 03.2019
 - APTIV Podgórki Tynieckie 2, 30-399 Kraków
     - 11.2019
+
 ### Prace wakacyjne
 
 - COMARCH ul. prof. Michała Życzkowskiego 27, Budynek SSE 6, 31-864 Kraków
