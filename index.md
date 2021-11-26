@@ -3,11 +3,13 @@
 ## Wykształcenie
 
 ### Średnie Zawodowe
+
 - Technikum Łączności nr. 14 im. Obrońców Poczty Polskiej w Gdańsku w Krakowie 
     - Kierunek Technik Informatyk
     - 2017-2021
 
 ### Niepełne Wyższe (student)
+
 - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie 
     - Kierunek Informatyka i Systemy Inteligętne 
     - 2021-(obecnie)
