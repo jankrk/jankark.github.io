@@ -18,7 +18,7 @@
 - COMARCH ul. prof. Michała Życzkowskiego 27, Budynek SSE 6, 31-864 Kraków
     - 07.2021-10.2021
 ## Umiejętności
--Znajomość 
+- Znajomość 
     - HTML, CSS
     - JavaScript
     - Python
