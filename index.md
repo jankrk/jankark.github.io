@@ -11,25 +11,25 @@
 ## Doświadczenie
 ### Praktyki zawodowe 
 - MPK KRAKÓW ul. Jana Brożka 3, 30-347 Kraków
-    • 03.2019
+    - 03.2019
 - APTIV Podgórki Tynieckie 2, 30-399 Kraków
-    • 11.2019
+    - 11.2019
 ### Prace wakacyjne
 - COMARCH ul. prof. Michała Życzkowskiego 27, Budynek SSE 6, 31-864 Kraków
-    • 07.2021-10.2021
+    - 07.2021-10.2021
 ## Umiejętności
 -Znajomość 
-    • HTML, CSS
-    • JavaScript
-    • Python
-    • React.js
-    • React Native
-    • Angular
-    • PHP
-    • SQL
+    - HTML, CSS
+    - JavaScript
+    - Python
+    - React.js
+    - React Native
+    - Angular
+    - PHP
+    - SQL
 - Podstawowa konfiguracja 
-    • Windows Server
-    • Linux Server
+    - Windows Server
+    - Linux Server
 - Obsługa MS Office (Word, Excel, 
 Access)
 - Komunikatywność
