@@ -20,7 +20,8 @@
 ## Umiejętności
 - Znajomość 
     - HTML, CSS
-    - JavaScript
+    - JavaScript/TypeScript
+    - C
     - Python
     - React.js
     - React Native
