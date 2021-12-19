@@ -1,5 +1,5 @@
-
 # Projekt na studia 
+
 Projekt dotyczy stworzenia prostej, arcade'owej gry 2D. Użyliśmy PyGame'a, i skorzystaliśmy z darmowych asset'ów. Całe przedsięwzięcie przede wszystkim służyło do zapoznania się z technologiami, które posłuża nam w przyszłości do tworzenia bardziej zaawansowanych projektów. Nasz zespół:
 * [Mateusz Mazur](https://mzsuetam.github.io/)
 * [Michał Koczkodaj](https://mkoczkodaj.github.io/)
@@ -10,7 +10,6 @@ Projekt dotyczy stworzenia prostej, arcade'owej gry 2D. Użyliśmy PyGame'a, i s
 
 GitHub naszego projektu [SLOT](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/SLOT)
 
-#
 [git](https://github.com/jankrk/jankrk)
 
 <!-- # Welcome to CV Pages
