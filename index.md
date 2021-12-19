@@ -12,6 +12,7 @@ GitHub naszego projektu [SLOT](https://github.com/AGH-Narzedzia-Informatyczne-20
 
 #
 [git](https://github.com/jankrk/jankrk)
+
 <!-- # Welcome to CV Pages
 
 ## Wykształcenie
