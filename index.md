@@ -10,6 +10,8 @@ Projekt dotyczy stworzenia prostej, arcade'owej gry 2D. Użyliśmy PyGame'a, i s
 
 GitHub naszego projektu [SLOT](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/SLOT)
 
+#
+[git](https://github.com/jankrk/jankrk)
 <!-- # Welcome to CV Pages
 
 ## Wykształcenie
